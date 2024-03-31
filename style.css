@@ -1,0 +1,329 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap");
+
+body {
+  width: 1728px;
+  height: 1117px;
+  position: relative;
+  gap: 0px;
+  opacity: 0px;
+  margin: 0;
+  padding: 0;
+  background-color: #000000;
+}
+
+form {
+  width: 1181px;
+  height: 712px;
+  position: absolute;
+  top: 154px;
+  left: 198px;
+  gap: 0px;
+  border: 1px 0px 0px 0px;
+  opacity: 0px;
+  color: #ffffff;
+  font-family: "Inter", sans-serif;
+}
+
+h1 {
+  width: 600px;
+  height: 144px;
+  position: absolute;
+  top: 154px;
+  left: 202px;
+  gap: 0px;
+  margin: 0;
+  opacity: 0px;
+  font-size: 64px;
+  font-weight: 400;
+  line-height: 77.45px;
+  text-align: left;
+}
+
+#name {
+  width: 1177px;
+  height: 46.01px;
+  position: absolute;
+  top: 278px;
+  left: 202px;
+  gap: 0px;
+  border: 1px solid black;
+  opacity: 0px;
+  color: #ffffff;
+  background: none;
+}
+
+#name_1 {
+  width: 112px;
+  height: 29px;
+  position: absolute;
+  top: 278px;
+  left: 202px;
+  gap: 0px;
+  opacity: 0px;
+  font-size: 24px;
+  font-weight: 300;
+  line-height: 29.05px;
+  text-align: left;
+}
+
+#first_line {
+  width: 1177px;
+  height: 0px;
+  position: absolute;
+  top: 324.01px;
+  left: 202px;
+  gap: 0px;
+  border: 1px 0px 0px 0px;
+  opacity: 0px;
+  angle: 0.1 deg;
+  color: #ffffff;
+}
+
+#email {
+  width: 1177px;
+  height: 46.01px;
+  position: absolute;
+  top: 352px;
+  left: 202px;
+  gap: 0px;
+  border: 1px solid black;
+  opacity: 0px;
+  background: none;
+  color: #ffffff;
+}
+#email_1 {
+  width: 60px;
+  height: 29px;
+  position: absolute;
+  top: 352px;
+  left: 202px;
+  gap: 0px;
+  opacity: 0px;
+  font-size: 24px;
+  font-weight: 300;
+  line-height: 29.05px;
+  text-align: left;
+}
+
+#Second_line {
+  width: 1177px;
+  height: 0px;
+  position: absolute;
+  top: 398.01px;
+  left: 202px;
+  gap: 0px;
+  border: 1px 0px 0px 0px;
+  opacity: 0px;
+  angle: 0.1 deg;
+}
+
+#password {
+  width: 1177px;
+  height: 46.01px;
+  position: absolute;
+  top: 426px;
+  left: 202px;
+  gap: 0px;
+  border: 1px solid black;
+  opacity: 0px;
+  color: #ffffff;
+  background: none;
+}
+#password_1 {
+  width: 109px;
+  height: 29px;
+  position: absolute;
+  top: 426px;
+  left: 202px;
+  gap: 0px;
+  opacity: 0px;
+  font-size: 24px;
+  font-weight: 300;
+  line-height: 29.05px;
+  text-align: left;
+}
+#Third_line {
+  width: 1177px;
+  height: 0px;
+  position: absolute;
+  top: 472.01px;
+  left: 202px;
+  gap: 0px;
+  border: 1px 0px 0px 0px;
+  opacity: 0px;
+  angle: 0.1 deg;
+}
+#confirm_password {
+  width: 1177px;
+  height: 46.01px;
+  position: absolute;
+  top: 500px;
+  left: 202px;
+  gap: 0px;
+  border: 1px solid black;
+  opacity: 0px;
+  background: none;
+  color: #ffffff;
+}
+
+#Cpassword_1 {
+  width: 244px;
+  height: 29px;
+  position: absolute;
+  top: 500px;
+  left: 202px;
+  gap: 0px;
+  opacity: 0px;
+  font-size: 24px;
+  font-weight: 300;
+  line-height: 29.05px;
+  text-align: left;
+}
+
+#fourth_line {
+  width: 1177px;
+  height: 0px;
+  position: absolute;
+  top: 546.01px;
+  left: 202px;
+  gap: 0px;
+  border: 1px 0px 0px 0px;
+  opacity: 0px;
+  angle: 0.1 deg;
+}
+
+#date {
+  width: 1177px;
+  height: 58px;
+  position: absolute;
+  top: 574px;
+  left: 202px;
+  gap: 0px;
+  border: 1px solid black;
+  opacity: 0px;
+  background: none;
+  color: #ffffff;
+  
+}
+#date_1 {
+  width: 244px;
+  height: 58px;
+  position: absolute;
+  top: 574px;
+  left: 202px;
+  gap: 0px;
+  opacity: 0px;
+  font-size: 24px;
+  font-weight: 300;
+  line-height: 29.05px;
+  text-align: left;
+}
+#fifth_line {
+  width: 1177px;
+  height: 0px;
+  position: absolute;
+  top: 620.01px;
+  left: 202px;
+  gap: 0px;
+  border: 1px 0px 0px 0px;
+  opacity: 0px;
+  angle: 0.1 deg;
+}
+
+#student {
+  width: 244px;
+  height: 29px;
+  position: absolute;
+  top: 650px;
+  left: 229px;
+  gap: 0px;
+  opacity: 0px;
+  font-size: 24px;
+  font-weight: 300;
+  line-height: 29.05px;
+  text-align: left;
+}
+#Employee {
+  width: 244px;
+  height: 29px;
+  position: absolute;
+  top: 650px;
+  left: 407px;
+  gap: 0px;
+  opacity: 0px;
+  font-size: 24px;
+  font-weight: 300;
+  line-height: 29.05px;
+  text-align: left;
+}
+#agree_1 {
+  width: 430px;
+  height: 29px;
+  position: absolute;
+  top: 709px;
+  left: 232px;
+  gap: 0px;
+  opacity: 0px;
+  font-size: 24px;
+  font-weight: 300;
+  line-height: 29.05px;
+  text-align: left;
+}
+
+#Student_1 {
+  width: 17px;
+  height: 17px;
+  position: absolute;
+  top: 652px;
+  left: 198px;
+  gap: 0px;
+  border-radius: 1000px 0px 0px 0px;
+  /* border: 1px 0px 0px 0px; */
+  opacity: 0px;
+  border: 1px solid #FFFFFF
+}
+#Employee_1{
+  width: 17px;
+height: 17px;
+position: absolute;
+top: 652px;
+left: 375px;
+gap: 0px;
+border-radius: 1000px 0px 0px 0px;
+opacity: 0px;
+border: 1px solid #FFFFFF
+}
+#agree{
+  width: 21px;
+  height: 21px;
+  position: absolute;
+  top: 710px;
+  left: 198px;
+  gap: 0px;
+  opacity: 0px;
+  border: 1px solid #FFFFFF;
+ 
+
+}
+
+#submit{
+  width: 226px;
+height: 58px;
+position:absolute;
+top: 808px;
+left: 198px;
+gap: 0px;
+opacity: 0px;
+
+}
+span{
+  width: 81px;
+height: 33px;
+gap: 0px;
+opacity: 0px;
+font-size: 24px;
+font-weight: 300;
+line-height: 29.05px;
+text-align: left;
+color:#000000;
+}
